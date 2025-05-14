@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oluwakoya Oluwafemi</h1>
 <h3 align="center">A passionate Data Analyst with a love for healthcare data and storytelling through visuals</h3>
 
-🎓 Data Analyst | Altschool Africa Graduate (2024)  
+🎓 Data Analyst | Altschool Africa Graduate (2025)  
 🧠 Skilled in Python, SQL, Excel & Power BI  
 🔬 Passionate about healthcare data and turning messy data into clear insights  
 📊 Always exploring real-world datasets and building dashboards  
