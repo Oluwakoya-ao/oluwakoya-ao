@@ -5,7 +5,7 @@
 🧠 Skilled in Python, SQL, Excel & Power BI  
 🔬 Passionate about healthcare data and turning messy data into clear insights  
 📊 Always exploring real-world datasets and building dashboards  
-📌 Open to entry-level roles, internships & collaborations  
+
 
 
 - 🌱 I’m currently learning **Power BI DAX, SQL joins & intermediate Python**
